@@ -215,6 +215,9 @@ a{
 .flex a {
   color: black;
 }
+.flex a:hover {
+  color:#7E74F1;
+}
 @media (min-width: 675px){
   .projects-container{
     display: flex;
@@ -396,6 +399,9 @@ form{
 }
 .dark .flex a {
   color: #ffffff;
+}
+.dark .flex a:hover {
+  color:#7E74F1;
 }
 
 .dark .view-site {
