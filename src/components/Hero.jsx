@@ -17,9 +17,9 @@ export default function Hero(props){
                     <p className={darkMode ? 'dark-hero-paragraph' : 'hero-paragragh'}>Hi, I'm Williams, a frontend developer from Nigeria. I specialize in creating visually appealing and user-friendly websites using some popular technologies. Checkout my projects and do well to drop a message, Cheers.</p>  
                 </div>
                 <div className={darkMode ? 'dark-socials' :'socials'}>
-                    <a href=""><AiFillTwitterCircle /></a>
-                    <a href=""><AiFillLinkedin /></a>
-                    <a href=""><AiFillGithub /></a>
+                    <a href="https://twitter.com/slowmogramm" target="blank"><AiFillTwitterCircle /></a>
+                    <a href="https://www.linkedin.com/in/williams-murray-079865199" target="blank"><AiFillLinkedin /></a>
+                    <a href="https://github.com/slowmodev" target="blank"><AiFillGithub /></a>
                 </div>
             </div>
             <div className='hero-image-container'>

@@ -17,17 +17,17 @@ export default function Technologies(){
                 <div className='grid-item'>
                     <FaReact className='icons'/>
                     <h4 className='tech-title'>React</h4>
-                    <p className='tech-desc'>Building projects with React Building projects with NextJS</p>
+                    <p className='tech-desc'>Building projects with React </p>
                 </div>
                 <div className='grid-item'>
                     <FaGitAlt className='icons'/>
                     <h4 className='tech-title'>Git(Version Control)</h4>
-                    <p className='tech-desc'>Eperience using git, Github precisely</p>
+                    <p className='tech-desc'>Experience using git, Github precisely</p>
                 </div>
                 <div className='grid-item'>
                     <SiNextdotjs className='icons'/>
                     <h4 className='tech-title'>NextJS</h4>
-                    <p className='tech-desc'>Building projects with NextJS Building projects with NextJS</p>
+                    <p className='tech-desc'>Building projects with NextJS </p>
                 </div>
             </div>
         </section>
