@@ -1,7 +1,7 @@
 import React from 'react';
 import ai from '../assets/ai.png'
 import portfolio from '../assets/portfolio.png'
-import todo from '../assets/todo.jpg'
+import todo from '../assets/todo.png'
 
 export default function Projects(){
     return(
