@@ -189,7 +189,7 @@ a{
   position: absolute;
   bottom: 0;
   left: 0;
-  color: #7E74F1;
+  color: black;
   font-weight: 700;
   padding: 10px;
   text-align: left;
@@ -405,7 +405,7 @@ form{
 }
 
 .dark .view-site {
-  color: #7E74F1;
+  color: #ffffff;
 }
 .dark-resume{
   border: 1px solid white;
