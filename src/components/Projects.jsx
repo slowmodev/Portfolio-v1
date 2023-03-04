@@ -1,7 +1,7 @@
 import React from 'react';
 import ai from '../assets/ai.png'
 import portfolio from '../assets/portfolio.png'
-import rating from '../assets/desktop-design.jpg'
+import todo from '../assets/todo.jpg'
 
 export default function Projects(){
     return(
@@ -56,13 +56,13 @@ export default function Projects(){
 
                     <div className='project one'>
                         <div className='project-image'>
-                            <img src={rating} alt="rating card" />
+                            <img src={todo} alt="todo" />
                             <div className='view-site'>
-                                <h1 className='projects-title'>Rating card</h1>
-                                <p className='project-desc'>A simple frontend mentor rating card challenge</p>
+                                <h1 className='projects-title'>ToDo App</h1>
+                                <p className='project-desc'>A todo app challenge from frontendmentor</p>
                                 <div className='flex'>
-                                    <a href='https://github.com/slowmodev/interactive-rating-component-main' target='blank'><h3>View code</h3></a>
-                                    <a href='https://deft-toffee-a1d5fc.netlify.app/' target='blank'><h3>Visit</h3></a>
+                                    <a href='https://github.com/slowmodev/WhatTodo' target='blank'><h3>View code</h3></a>
+                                    <a href='https://wahtodo.netlify.app/' target='blank'><h3>Visit</h3></a>
                                 </div>
                             </div>
                         </div>
